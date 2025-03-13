@@ -1,6 +1,6 @@
 # ocr-0x12R
 
-Welcome on the `0x12R`!
+Welcome to `0x12R`!
 
 
 ### Dependencies
